@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pulls latest pre-built node binary from GitHub and installs it as a systemd service.
-# Intended for non-technical validators, assumes running on compatible Ubuntu.
+
 
 #stop on errors
 set -e
